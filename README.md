@@ -68,12 +68,6 @@ This project demonstrates practical SQL skills using the **Legacy Sales Model**,
 
 ---
 
-## 📅 Duration
-
-**March 2025 – June 2025**
-
----
-
 ## 👨‍💻 Author
 
 **Karan Madav**  
